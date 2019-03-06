@@ -1459,3 +1459,43 @@ body {
 .cid-rjWhFYrmXg .nav-tabs .nav-link.active:hover {
   border: 2px solid #149dcc;
 }
+.cid-rjWlauvHXf {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rjWlauvHXf .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rjWlauvHXf .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rjWlauvHXf .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rjWlauvHXf .team-item .item-image img {
+  width: 100%;
+}
+.cid-rjWlauvHXf .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rjWlauvHXf .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rjWlauvHXf .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rjWlauvHXf .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rjWlauvHXf .team-item .item-caption {
+  background: #efefef;
+}
